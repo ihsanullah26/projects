@@ -1,6 +1,6 @@
-# 💻 Software Projects Portfolio
+# 💻 Software Projects Repository
 
-Welcome to my software development portfolio repository\! This collection showcases several projects demonstrating proficiency in full-stack web development, database design, GUI programming, game development, and systems utilities across various technology stacks.
+Welcome to my software development  repository\! This collection showcases several projects demonstrating proficiency in full-stack web development, database design, GUI programming, game development, and systems utilities across various technology stacks.
 
 -----
 
